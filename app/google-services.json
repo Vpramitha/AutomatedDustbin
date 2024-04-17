@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "738170973434",
+    "firebase_url": "https://smartduskbin-default-rtdb.firebaseio.com",
+    "project_id": "smartduskbin",
+    "storage_bucket": "smartduskbin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738170973434:android:791499f0e7253d36202d43",
+        "android_client_info": {
+          "package_name": "com.firstapp.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_2NgwSGWmsPBQ4mTht0xC9pFOryRuvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
